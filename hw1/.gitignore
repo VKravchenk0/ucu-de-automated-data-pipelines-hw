@@ -1,0 +1,4 @@
+.venv
+airflow
+weather.db
+README_LOCAL.md
